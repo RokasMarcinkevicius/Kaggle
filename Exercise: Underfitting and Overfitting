@@ -2,13 +2,13 @@
  "cells": [
   {
    "cell_type": "markdown",
-   "id": "ce9292a0",
+   "id": "bf8b665e",
    "metadata": {
     "papermill": {
-     "duration": 0.005318,
-     "end_time": "2024-10-13T17:02:53.477932",
+     "duration": 0.005523,
+     "end_time": "2024-10-14T05:23:32.660311",
      "exception": false,
-     "start_time": "2024-10-13T17:02:53.472614",
+     "start_time": "2024-10-14T05:23:32.654788",
      "status": "completed"
     },
     "tags": []
@@ -21,13 +21,13 @@
   },
   {
    "cell_type": "markdown",
-   "id": "5b2b0cfa",
+   "id": "c0f14302",
    "metadata": {
     "papermill": {
-     "duration": 0.00429,
-     "end_time": "2024-10-13T17:02:53.487360",
+     "duration": 0.004459,
+     "end_time": "2024-10-14T05:23:32.670087",
      "exception": false,
-     "start_time": "2024-10-13T17:02:53.483070",
+     "start_time": "2024-10-14T05:23:32.665628",
      "status": "completed"
     },
     "tags": []
@@ -40,19 +40,19 @@
   {
    "cell_type": "code",
    "execution_count": 1,
-   "id": "25354a9f",
+   "id": "e58a2313",
    "metadata": {
     "execution": {
-     "iopub.execute_input": "2024-10-13T17:02:53.500036Z",
-     "iopub.status.busy": "2024-10-13T17:02:53.498861Z",
-     "iopub.status.idle": "2024-10-13T17:02:56.294992Z",
-     "shell.execute_reply": "2024-10-13T17:02:56.293670Z"
+     "iopub.execute_input": "2024-10-14T05:23:32.681397Z",
+     "iopub.status.busy": "2024-10-14T05:23:32.680959Z",
+     "iopub.status.idle": "2024-10-14T05:23:35.650031Z",
+     "shell.execute_reply": "2024-10-14T05:23:35.648134Z"
     },
     "papermill": {
-     "duration": 2.805953,
-     "end_time": "2024-10-13T17:02:56.297856",
+     "duration": 2.979211,
+     "end_time": "2024-10-14T05:23:35.654051",
      "exception": false,
-     "start_time": "2024-10-13T17:02:53.491903",
+     "start_time": "2024-10-14T05:23:32.674840",
      "status": "completed"
     },
     "tags": []
@@ -108,13 +108,13 @@
   },
   {
    "cell_type": "markdown",
-   "id": "89bb480b",
+   "id": "60631bc8",
    "metadata": {
     "papermill": {
-     "duration": 0.004295,
-     "end_time": "2024-10-13T17:02:56.307076",
+     "duration": 0.004718,
+     "end_time": "2024-10-14T05:23:35.664459",
      "exception": false,
-     "start_time": "2024-10-13T17:02:56.302781",
+     "start_time": "2024-10-14T05:23:35.659741",
      "status": "completed"
     },
     "tags": []
@@ -127,19 +127,19 @@
   {
    "cell_type": "code",
    "execution_count": 2,
-   "id": "7077be38",
+   "id": "87f01642",
    "metadata": {
     "execution": {
-     "iopub.execute_input": "2024-10-13T17:02:56.317853Z",
-     "iopub.status.busy": "2024-10-13T17:02:56.317414Z",
-     "iopub.status.idle": "2024-10-13T17:02:56.323781Z",
-     "shell.execute_reply": "2024-10-13T17:02:56.322663Z"
+     "iopub.execute_input": "2024-10-14T05:23:35.680308Z",
+     "iopub.status.busy": "2024-10-14T05:23:35.679460Z",
+     "iopub.status.idle": "2024-10-14T05:23:35.688684Z",
+     "shell.execute_reply": "2024-10-14T05:23:35.687149Z"
     },
     "papermill": {
-     "duration": 0.014894,
-     "end_time": "2024-10-13T17:02:56.326440",
+     "duration": 0.022052,
+     "end_time": "2024-10-14T05:23:35.692161",
      "exception": false,
-     "start_time": "2024-10-13T17:02:56.311546",
+     "start_time": "2024-10-14T05:23:35.670109",
      "status": "completed"
     },
     "tags": []
@@ -156,13 +156,13 @@
   },
   {
    "cell_type": "markdown",
-   "id": "909fb472",
+   "id": "30ad5921",
    "metadata": {
     "papermill": {
-     "duration": 0.004209,
-     "end_time": "2024-10-13T17:02:56.335185",
+     "duration": 0.005433,
+     "end_time": "2024-10-14T05:23:35.703038",
      "exception": false,
-     "start_time": "2024-10-13T17:02:56.330976",
+     "start_time": "2024-10-14T05:23:35.697605",
      "status": "completed"
     },
     "tags": []
@@ -177,28 +177,35 @@
   {
    "cell_type": "code",
    "execution_count": 3,
-   "id": "4b4cb408",
+   "id": "b5b8fe17",
    "metadata": {
     "execution": {
-     "iopub.execute_input": "2024-10-13T17:02:56.345751Z",
-     "iopub.status.busy": "2024-10-13T17:02:56.345328Z",
-     "iopub.status.idle": "2024-10-13T17:02:56.356902Z",
-     "shell.execute_reply": "2024-10-13T17:02:56.355900Z"
+     "iopub.execute_input": "2024-10-14T05:23:35.717274Z",
+     "iopub.status.busy": "2024-10-14T05:23:35.716004Z",
+     "iopub.status.idle": "2024-10-14T05:23:35.803422Z",
+     "shell.execute_reply": "2024-10-14T05:23:35.802056Z"
     },
     "papermill": {
-     "duration": 0.019724,
-     "end_time": "2024-10-13T17:02:56.359317",
+     "duration": 0.097655,
+     "end_time": "2024-10-14T05:23:35.807214",
      "exception": false,
-     "start_time": "2024-10-13T17:02:56.339593",
+     "start_time": "2024-10-14T05:23:35.709559",
      "status": "completed"
     },
     "tags": []
    },
    "outputs": [
     {
+     "name": "stdout",
+     "output_type": "stream",
+     "text": [
+      "100\n"
+     ]
+    },
+    {
      "data": {
       "application/javascript": [
-       "parent.postMessage({\"jupyterEvent\": \"custom.exercise_interaction\", \"data\": {\"outcomeType\": 4, \"interactionType\": 1, \"questionType\": 1, \"questionId\": \"1_BestTreeSize\", \"learnToolsVersion\": \"0.3.4\", \"valueTowardsCompletion\": 0.0, \"failureMessage\": \"\", \"exceptionClass\": \"\", \"trace\": \"\"}}, \"*\")"
+       "parent.postMessage({\"jupyterEvent\": \"custom.exercise_interaction\", \"data\": {\"outcomeType\": 1, \"valueTowardsCompletion\": 0.5, \"interactionType\": 1, \"questionType\": 1, \"questionId\": \"1_BestTreeSize\", \"learnToolsVersion\": \"0.3.4\", \"failureMessage\": \"\", \"exceptionClass\": \"\", \"trace\": \"\"}}, \"*\")"
       ],
       "text/plain": [
        "<IPython.core.display.Javascript object>"
@@ -210,10 +217,10 @@
     {
      "data": {
       "text/markdown": [
-       "<span style=\"color:#ccaa33\">Check:</span> When you've updated the starter code, `check()` will tell you whether your code is correct. You need to update the code that creates variable `best_tree_size`"
+       "<span style=\"color:#33cc33\">Correct</span>"
       ],
       "text/plain": [
-       "Check: When you've updated the starter code, `check()` will tell you whether your code is correct. You need to update the code that creates variable `best_tree_size`"
+       "Correct"
       ]
      },
      "metadata": {},
@@ -223,11 +230,10 @@
    "source": [
     "candidate_max_leaf_nodes = [5, 25, 50, 100, 250, 500]\n",
     "# Write loop to find the ideal tree size from candidate_max_leaf_nodes\n",
-    "_\n",
-    "\n",
+    "scores = {leaf_size: get_mae(leaf_size, train_X, val_X, train_y, val_y) for leaf_size in candidate_max_leaf_nodes}\n",
     "# Store the best value of max_leaf_nodes (it will be either 5, 25, 50, 100, 250 or 500)\n",
-    "best_tree_size = ____\n",
-    "\n",
+    "best_tree_size = min(scores, key=scores.get)\n",
+    "print(best_tree_size)\n",
     "# Check your answer\n",
     "step_1.check()"
    ]
@@ -235,39 +241,102 @@
   {
    "cell_type": "code",
    "execution_count": 4,
-   "id": "e7d32b30",
+   "id": "46f53b34",
    "metadata": {
     "execution": {
-     "iopub.execute_input": "2024-10-13T17:02:56.370872Z",
-     "iopub.status.busy": "2024-10-13T17:02:56.370446Z",
-     "iopub.status.idle": "2024-10-13T17:02:56.375111Z",
-     "shell.execute_reply": "2024-10-13T17:02:56.374174Z"
+     "iopub.execute_input": "2024-10-14T05:23:35.821240Z",
+     "iopub.status.busy": "2024-10-14T05:23:35.820202Z",
+     "iopub.status.idle": "2024-10-14T05:23:35.836449Z",
+     "shell.execute_reply": "2024-10-14T05:23:35.833920Z"
     },
     "papermill": {
-     "duration": 0.013101,
-     "end_time": "2024-10-13T17:02:56.377349",
+     "duration": 0.028446,
+     "end_time": "2024-10-14T05:23:35.841099",
      "exception": false,
-     "start_time": "2024-10-13T17:02:56.364248",
+     "start_time": "2024-10-14T05:23:35.812653",
      "status": "completed"
     },
     "tags": []
    },
-   "outputs": [],
+   "outputs": [
+    {
+     "data": {
+      "application/javascript": [
+       "parent.postMessage({\"jupyterEvent\": \"custom.exercise_interaction\", \"data\": {\"interactionType\": 2, \"questionType\": 1, \"questionId\": \"1_BestTreeSize\", \"learnToolsVersion\": \"0.3.4\", \"valueTowardsCompletion\": 0.0, \"failureMessage\": \"\", \"exceptionClass\": \"\", \"trace\": \"\", \"outcomeType\": 4}}, \"*\")"
+      ],
+      "text/plain": [
+       "<IPython.core.display.Javascript object>"
+      ]
+     },
+     "metadata": {},
+     "output_type": "display_data"
+    },
+    {
+     "data": {
+      "text/markdown": [
+       "<span style=\"color:#3366cc\">Hint:</span> You will call get_mae in the loop. You'll need to map the names of your data structure to the names in get_mae"
+      ],
+      "text/plain": [
+       "Hint: You will call get_mae in the loop. You'll need to map the names of your data structure to the names in get_mae"
+      ]
+     },
+     "metadata": {},
+     "output_type": "display_data"
+    },
+    {
+     "data": {
+      "application/javascript": [
+       "parent.postMessage({\"jupyterEvent\": \"custom.exercise_interaction\", \"data\": {\"interactionType\": 3, \"questionType\": 1, \"questionId\": \"1_BestTreeSize\", \"learnToolsVersion\": \"0.3.4\", \"valueTowardsCompletion\": 0.0, \"failureMessage\": \"\", \"exceptionClass\": \"\", \"trace\": \"\", \"outcomeType\": 4}}, \"*\")"
+      ],
+      "text/plain": [
+       "<IPython.core.display.Javascript object>"
+      ]
+     },
+     "metadata": {},
+     "output_type": "display_data"
+    },
+    {
+     "data": {
+      "text/markdown": [
+       "<span style=\"color:#33cc99\">Solution:</span> \n",
+       "```python\n",
+       "# Here is a short solution with a dict comprehension.\n",
+       "# The lesson gives an example of how to do this with an explicit loop.\n",
+       "scores = {leaf_size: get_mae(leaf_size, train_X, val_X, train_y, val_y) for leaf_size in candidate_max_leaf_nodes}\n",
+       "best_tree_size = min(scores, key=scores.get)\n",
+       "\n",
+       "```"
+      ],
+      "text/plain": [
+       "Solution: \n",
+       "```python\n",
+       "# Here is a short solution with a dict comprehension.\n",
+       "# The lesson gives an example of how to do this with an explicit loop.\n",
+       "scores = {leaf_size: get_mae(leaf_size, train_X, val_X, train_y, val_y) for leaf_size in candidate_max_leaf_nodes}\n",
+       "best_tree_size = min(scores, key=scores.get)\n",
+       "\n",
+       "```"
+      ]
+     },
+     "metadata": {},
+     "output_type": "display_data"
+    }
+   ],
    "source": [
     "# The lines below will show you a hint or the solution.\n",
-    "# step_1.hint() \n",
-    "# step_1.solution()"
+    "step_1.hint() \n",
+    "step_1.solution()"
    ]
   },
   {
    "cell_type": "markdown",
-   "id": "ff9933f4",
+   "id": "4c92729b",
    "metadata": {
     "papermill": {
-     "duration": 0.004717,
-     "end_time": "2024-10-13T17:02:56.387114",
+     "duration": 0.006782,
+     "end_time": "2024-10-14T05:23:35.856524",
      "exception": false,
-     "start_time": "2024-10-13T17:02:56.382397",
+     "start_time": "2024-10-14T05:23:35.849742",
      "status": "completed"
     },
     "tags": []
@@ -280,19 +349,19 @@
   {
    "cell_type": "code",
    "execution_count": 5,
-   "id": "0cd98fc9",
+   "id": "79ef0e86",
    "metadata": {
     "execution": {
-     "iopub.execute_input": "2024-10-13T17:02:56.398629Z",
-     "iopub.status.busy": "2024-10-13T17:02:56.398195Z",
-     "iopub.status.idle": "2024-10-13T17:02:56.407659Z",
-     "shell.execute_reply": "2024-10-13T17:02:56.406602Z"
+     "iopub.execute_input": "2024-10-14T05:23:35.875167Z",
+     "iopub.status.busy": "2024-10-14T05:23:35.873924Z",
+     "iopub.status.idle": "2024-10-14T05:23:35.899558Z",
+     "shell.execute_reply": "2024-10-14T05:23:35.898126Z"
     },
     "papermill": {
-     "duration": 0.01853,
-     "end_time": "2024-10-13T17:02:56.410557",
+     "duration": 0.03739,
+     "end_time": "2024-10-14T05:23:35.902437",
      "exception": false,
-     "start_time": "2024-10-13T17:02:56.392027",
+     "start_time": "2024-10-14T05:23:35.865047",
      "status": "completed"
     },
     "tags": []
@@ -301,7 +370,7 @@
     {
      "data": {
       "application/javascript": [
-       "parent.postMessage({\"jupyterEvent\": \"custom.exercise_interaction\", \"data\": {\"outcomeType\": 2, \"failureMessage\": \"You still need to define the following variables: `final_model`\", \"interactionType\": 1, \"questionType\": 2, \"questionId\": \"2_FitModelWithAllData\", \"learnToolsVersion\": \"0.3.4\", \"valueTowardsCompletion\": 0.0, \"exceptionClass\": \"\", \"trace\": \"\"}}, \"*\")"
+       "parent.postMessage({\"jupyterEvent\": \"custom.exercise_interaction\", \"data\": {\"outcomeType\": 1, \"valueTowardsCompletion\": 0.5, \"interactionType\": 1, \"questionType\": 2, \"questionId\": \"2_FitModelWithAllData\", \"learnToolsVersion\": \"0.3.4\", \"failureMessage\": \"\", \"exceptionClass\": \"\", \"trace\": \"\"}}, \"*\")"
       ],
       "text/plain": [
        "<IPython.core.display.Javascript object>"
@@ -313,10 +382,10 @@
     {
      "data": {
       "text/markdown": [
-       "<span style=\"color:#cc3333\">Incorrect:</span> You still need to define the following variables: `final_model`"
+       "<span style=\"color:#33cc33\">Correct</span>"
       ],
       "text/plain": [
-       "Incorrect: You still need to define the following variables: `final_model`"
+       "Correct"
       ]
      },
      "metadata": {},
@@ -325,10 +394,10 @@
    ],
    "source": [
     "# Fill in argument to make optimal size and uncomment\n",
-    "# final_model = DecisionTreeRegressor(____)\n",
+    "final_model = DecisionTreeRegressor(max_leaf_nodes=best_tree_size, random_state=1)\n",
     "\n",
     "# fit the final model and uncomment the next two lines\n",
-    "# final_model.fit(____, ____)\n",
+    "final_model.fit(X, y)\n",
     "\n",
     "# Check your answer\n",
     "step_2.check()"
@@ -337,38 +406,101 @@
   {
    "cell_type": "code",
    "execution_count": 6,
-   "id": "06fb86d3",
+   "id": "5e7a64f7",
    "metadata": {
     "execution": {
-     "iopub.execute_input": "2024-10-13T17:02:56.423478Z",
-     "iopub.status.busy": "2024-10-13T17:02:56.423011Z",
-     "iopub.status.idle": "2024-10-13T17:02:56.427547Z",
-     "shell.execute_reply": "2024-10-13T17:02:56.426476Z"
+     "iopub.execute_input": "2024-10-14T05:23:35.918518Z",
+     "iopub.status.busy": "2024-10-14T05:23:35.917954Z",
+     "iopub.status.idle": "2024-10-14T05:23:35.934957Z",
+     "shell.execute_reply": "2024-10-14T05:23:35.933124Z"
     },
     "papermill": {
-     "duration": 0.013775,
-     "end_time": "2024-10-13T17:02:56.429882",
+     "duration": 0.02857,
+     "end_time": "2024-10-14T05:23:35.938514",
      "exception": false,
-     "start_time": "2024-10-13T17:02:56.416107",
+     "start_time": "2024-10-14T05:23:35.909944",
      "status": "completed"
     },
     "tags": []
    },
-   "outputs": [],
+   "outputs": [
+    {
+     "data": {
+      "application/javascript": [
+       "parent.postMessage({\"jupyterEvent\": \"custom.exercise_interaction\", \"data\": {\"interactionType\": 2, \"questionType\": 2, \"questionId\": \"2_FitModelWithAllData\", \"learnToolsVersion\": \"0.3.4\", \"valueTowardsCompletion\": 0.0, \"failureMessage\": \"\", \"exceptionClass\": \"\", \"trace\": \"\", \"outcomeType\": 4}}, \"*\")"
+      ],
+      "text/plain": [
+       "<IPython.core.display.Javascript object>"
+      ]
+     },
+     "metadata": {},
+     "output_type": "display_data"
+    },
+    {
+     "data": {
+      "text/markdown": [
+       "<span style=\"color:#3366cc\">Hint:</span> Fit with the ideal value of max_leaf_nodes. In the fit step, use all of the data in the dataset"
+      ],
+      "text/plain": [
+       "Hint: Fit with the ideal value of max_leaf_nodes. In the fit step, use all of the data in the dataset"
+      ]
+     },
+     "metadata": {},
+     "output_type": "display_data"
+    },
+    {
+     "data": {
+      "application/javascript": [
+       "parent.postMessage({\"jupyterEvent\": \"custom.exercise_interaction\", \"data\": {\"interactionType\": 3, \"questionType\": 2, \"questionId\": \"2_FitModelWithAllData\", \"learnToolsVersion\": \"0.3.4\", \"valueTowardsCompletion\": 0.0, \"failureMessage\": \"\", \"exceptionClass\": \"\", \"trace\": \"\", \"outcomeType\": 4}}, \"*\")"
+      ],
+      "text/plain": [
+       "<IPython.core.display.Javascript object>"
+      ]
+     },
+     "metadata": {},
+     "output_type": "display_data"
+    },
+    {
+     "data": {
+      "text/markdown": [
+       "<span style=\"color:#33cc99\">Solution:</span> \n",
+       "```python\n",
+       "# Fit the model with best_tree_size. Fill in argument to make optimal size\n",
+       "final_model = DecisionTreeRegressor(max_leaf_nodes=best_tree_size, random_state=1)\n",
+       "\n",
+       "# fit the final model\n",
+       "final_model.fit(X, y)\n",
+       "```"
+      ],
+      "text/plain": [
+       "Solution: \n",
+       "```python\n",
+       "# Fit the model with best_tree_size. Fill in argument to make optimal size\n",
+       "final_model = DecisionTreeRegressor(max_leaf_nodes=best_tree_size, random_state=1)\n",
+       "\n",
+       "# fit the final model\n",
+       "final_model.fit(X, y)\n",
+       "```"
+      ]
+     },
+     "metadata": {},
+     "output_type": "display_data"
+    }
+   ],
    "source": [
-    "# step_2.hint()\n",
-    "# step_2.solution()"
+    "step_2.hint()\n",
+    "step_2.solution()"
    ]
   },
   {
    "cell_type": "markdown",
-   "id": "c2764d20",
+   "id": "4cf20333",
    "metadata": {
     "papermill": {
-     "duration": 0.005141,
-     "end_time": "2024-10-13T17:02:56.441423",
+     "duration": 0.006829,
+     "end_time": "2024-10-14T05:23:35.952900",
      "exception": false,
-     "start_time": "2024-10-13T17:02:56.436282",
+     "start_time": "2024-10-14T05:23:35.946071",
      "status": "completed"
     },
     "tags": []
@@ -383,13 +515,13 @@
   },
   {
    "cell_type": "markdown",
-   "id": "2857a09a",
+   "id": "62e88a8b",
    "metadata": {
     "papermill": {
-     "duration": 0.005182,
-     "end_time": "2024-10-13T17:02:56.451947",
+     "duration": 0.006786,
+     "end_time": "2024-10-14T05:23:35.966762",
      "exception": false,
-     "start_time": "2024-10-13T17:02:56.446765",
+     "start_time": "2024-10-14T05:23:35.959976",
      "status": "completed"
     },
     "tags": []
@@ -448,14 +580,14 @@
   },
   "papermill": {
    "default_parameters": {},
-   "duration": 6.560665,
-   "end_time": "2024-10-13T17:02:57.079547",
+   "duration": 7.635888,
+   "end_time": "2024-10-14T05:23:36.596516",
    "environment_variables": {},
    "exception": null,
    "input_path": "__notebook__.ipynb",
    "output_path": "__notebook__.ipynb",
    "parameters": {},
-   "start_time": "2024-10-13T17:02:50.518882",
+   "start_time": "2024-10-14T05:23:28.960628",
    "version": "2.6.0"
   }
  },
